@@ -25,4 +25,5 @@ We created scatter plots, correlations and heatmaps by using Google Maps and API
 ![Fig3](https://user-images.githubusercontent.com/114452770/202313865-6c9889cd-35e7-43ec-8dde-426e6a8341ae.png)
 ![Fig4](https://user-images.githubusercontent.com/114452770/202313871-8027e052-6dd1-40b5-82f4-be8aef53cfcf.png)
 
-
+# Conclusion 
+Base of the data we were able to demonstrate all and more with the data collected. As the data is interchangeable for future references.
